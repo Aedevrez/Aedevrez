@@ -1,6 +1,5 @@
 ### Hello, Cargo 👋
 
--
 :beginner: I am a novice-level programmer who is interested in anything that shines.
 :gear: I am a CS/CE Student in Ankara University.
 :crab: I chose Rust as my primary language, and I have an intermediate knowledge about Python, C, JavaScript and GDScript.
