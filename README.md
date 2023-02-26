@@ -1,5 +1,3 @@
 ### Let there be Rust 👋
-
-<br>
-
-Deneme
+---
+:crab:
