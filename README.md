@@ -6,3 +6,5 @@
 :teapot: I have an intermediate understanding of pure HTML and pure CSS. Perhaps one day I'll figure out how to combine JS with those two.  
 :diamond_shape_with_a_dot_inside: Git feels like witchcraft and I'm all for it.  
 :fountain: Linux, ~~Atom(rip)~~ Pulsar and Godot. FOSS all the way.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aedevrez&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
